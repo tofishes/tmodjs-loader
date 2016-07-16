@@ -11,7 +11,7 @@
   "author": "zombieyang",
   "dependencies": {
     "delete": "^0.2.1",
-    "tmodjs": "^1.0.2"
+    "tmodjs": "git+https://github.com/tofishes/tmodjs.git#master"
   },
   "devDependencies": {
     "expect.js": "^0.3.1"
